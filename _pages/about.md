@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 published: true
 ---
-
-Welcome! I am a Research Fellow in the
-[Department of Physics](https://www.iitr.ac.in/) at
-[Indian Institute of Technology Roorkee](https://www.iitr.ac.in/). I am working in the field of photonics. I earned
+Welcome! I am a PhD student at the [Department of Physics](https://www.iitr.ac.in/) of
+[Indian Institute of Technology Roorkee](https://www.iitr.ac.in/), working in the field of photonics. I earned
 my BSc and MSc in Physics from the
 [Jamia Millia Islamia](https://www.jmi.ac.in/).
 
-My [research](research) involves
-simulation and analysis of active silicon photonic devices using phase change materials. 
+My [research](research) involves modeling, simulations, and custom algorithm development for novel device design and scientific analysis. My main focus is on designing and simulating active silicon photonic devices for photonic integrated circuits applications. During my PhD, I have worked on the nonvolatile silicon photonic switches enable by phase change materials.
