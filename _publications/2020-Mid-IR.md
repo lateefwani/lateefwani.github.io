@@ -4,7 +4,7 @@ title: >-
   embedded in silicon-on-insulator waveguides
 collection: publications
 permalink: /publication/forthcoming-civilian-targeting
-date: {}
+date: 2021-01-03
 venue: Nanotechnology
 paperurl: /files/pdf/research/Under the Roof of Rebels.pdf
 link: 'https://doi:10.1088/1361-6528/ab5a04'
