@@ -1,10 +1,10 @@
 ---
-title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation"
+title: "Design of a novel nanoscale high-performance phase-change silicon photonic switch"
 collection: publications
 permalink: /publication/2009-10-01-bayespostest
-date: 2019-10-01
-venue: 'Journal of Open Source Software'
+date: 2018-12-01
+venue: 'Photonics Nanostructures - Fundam. Appl.'
 paperurl: '/files/pdf/research/BayesPostEst.pdf'
-link: 'https://doi.org/10.21105/joss.01722'
-citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
+link: 'https://doi:10.1016/j.photonics.2018.10.007'
+citation: 'Nadir Ali and R. Kumar. 2018. &quot;Design of a novel nanoscale high-performance phase-change silicon photonic switch.&quot; <i>Photonics Nanostructures - Fundam. Appl.</i> 42: 81-85. doi:10.1016/j.photonics.2018.10.007'
 ---
