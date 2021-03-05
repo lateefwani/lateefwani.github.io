@@ -1,14 +1,15 @@
 ---
-title: "Event data"
+title: Event data
 layout: single-portfolio
-excerpt: "<img src='/images/research/map.png' alt=''>"
+excerpt: <img src='/images/research/map.png' alt=''>
 collection: research
 order_number: 30
-header: 
-  og_image: "research/map.png"
+header:
+  og_image: research/map.png
+published: true
 ---
 
-In this set of projects, I leverage geospatial event data to explore the microlevel dynamics of political violence. What role can violence at the local level serve in advancing broader political ends? What explains patterns of action and reaction between actors engaged in different types of political violence? How do the differing roles the UN peacekeepers play affect the likelihood that rebel fighters will target them?
+<!---In this set of projects, I leverage geospatial event data to explore the microlevel dynamics of political violence. What role can violence at the local level serve in advancing broader political ends? What explains patterns of action and reaction between actors engaged in different types of political violence? How do the differing roles the UN peacekeepers play affect the likelihood that rebel fighters will target them?
 
 ## Article
 
@@ -18,7 +19,7 @@ Christian Oswald, Melanie Sauter, Sigrid Weber, and Rob Williams. "Under the Roo
 
 [Article](https://doi.org/10.1093/isq/sqaa009){: .btn--research} [Preprint](/files/pdf/research/Under the Roof of Rebels.pdf){: .btn--research} [Supplemental Information](/files/pdf/research/Under the Roof of Rebels SI.pdf){: .btn--research}<!--, [[Replication Archive]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FVUY8UI), [[GitHub Repo]](https://github.com/jayrobwilliams/Peace-Agreement-Strength)-->
 
-## Working papers
+<!---## Working papers
 
 Patrick Hunnicutt, William G. Nomikos, and Rob Williams. "Non-Combatants or Counter-Insurgents? The Strategic Logic of Violence against UN Peacekeeping." Presented at the Annual Conference of the American Political Science Association, San Francisco, CA, September, 2020.
 
@@ -38,4 +39,4 @@ William G. Nomikos and Rob Williams. "The Effects of UN Peacekeeping on Civilian
 
 > Peacekeeping operations are among the most visible and impactful of United Nations activities. These missions have proven effective at protecting civilians in both active conflicts and post-conflict societies. However, recent research suggests that United Nations peacekeepers do not protect civilians equally from all types of violence. Peacekeepers require the consent of the government to gain access to specific areas of the state's territory, and so must balance their need for access with their duty to protect civilians from state-perpetrated violence. We employ microlevel data to explore where different types of peacekeeping personnel are deployed within conflicts and how these decisions affect the overall effectiveness of United Nations efforts to protect civilians.
 
-[Abstract](/files/pdf/research/UNPoC.pdf){: .btn--research}
+[Abstract](/files/pdf/research/UNPoC.pdf){: .btn--research} ---!>
