@@ -5,7 +5,7 @@ permalink: /posts/2021/03/combining-simu/
 excerpt_separator: <!--more-->
 tags:
   - CST
-  - Co-simulation 
+  - Cosimulation 
 published: true
 ---
 
