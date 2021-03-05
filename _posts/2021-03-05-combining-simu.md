@@ -1,4 +1,3 @@
-
 ---
 title: Combined optical-electrical-thermal simulations in CST
 date: {}
@@ -9,6 +8,7 @@ tags:
   - Co-simulation 
 published: true
 ---
+
 Sometimes we required to evaluate the performance of a photonic device in which an electrical signal is applied to control the output of the device. This type of sitaution arises in the devices where the electrical signal is applied to heat the active material which in terns change the effective index of the material. Therefore, to analyze the complete performance of the device a combined simulation governing the three physical effects, optical, electrical, and thermal, is required. Due to involment the three  effects sometimes it becomes tricky to keep track of all the steps required to run the simulations perfectly. Sometimes it is possible that we miss one or two steps and in this case it will lead to the wrong results and wastage of time. So avoid these scenrio I have compiled here the steps that can easilied followed to setup a combined simulation in the CST. 
 
 The three modules used here have different purposes and are used to evaluate different thysical parameters. In the electrical simulation, voltage and current distribution are obtained by solving continuity equation. The thermal model calculates the temperature distribution in the device due to imported electrical losses from the electrical simulation. In the optical simulation, the effective index change due to the thermal heating of the device is calculated by importaing the temperature distribution.
