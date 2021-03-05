@@ -1,6 +1,6 @@
 ---
 title: Combined optical-electrical-thermal simulations in CST
-date: {}
+date: 2021-03-05
 permalink: /posts/2021/03/combining-simu/
 excerpt_separator: <!--more-->
 tags:
