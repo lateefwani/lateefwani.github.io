@@ -1,6 +1,6 @@
 ---
 title: Spatial modeling
-date: 2021-03-05 19:51:03.308000000 +05:30
+date: 2021-03-05 19:51:03 +05:30
 layout: single-portfolio
 excerpt: "<img src='/images/research/gp-bma.png' width='500' height='500'>"
 collection: research
