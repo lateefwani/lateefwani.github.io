@@ -1,6 +1,6 @@
 ---
-permalink: /teaching/
 title: Teaching
+permalink: "/teaching/"
 published: false
 ---
 

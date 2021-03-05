@@ -1,13 +1,13 @@
 ---
-permalink: /
 title: About me
+permalink: "/"
 excerpt: About me
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
-published: true
+- "/about/"
+- "/about.html"
 ---
+
 Welcome! I am a PhD student at the [Department of Physics](https://www.iitr.ac.in/) of
 [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/), working in the field of photonics. I earned
 my BSc and MSc in Physics from the
