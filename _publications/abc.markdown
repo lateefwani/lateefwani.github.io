@@ -5,7 +5,7 @@ date: 2021-03-30 16:09:00 +05:30
 collection: publications
 venue: Applied Optics
 link: "."
-citation: 'Nadir Ali and Roberto R. Panepucci, Y. Xie, D. Dai, R. Kumar, 2021. <i>Applied
-  Optics</i> vol. p. . doi:'
+citation: Nadir Ali at al., 2021. <i>Applied Optics</i>, vol. 60, no. 12, p. 3559-68,
+  doi:10.1364/AO.418358
 ---
 
