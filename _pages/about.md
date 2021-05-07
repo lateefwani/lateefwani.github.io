@@ -8,7 +8,7 @@ redirect_from:
 - "/about.html"
 ---
 
-Welcome! I am currently pursuing Ph.D. from [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/), working in the field of photonics. I earned
+Welcome! My name is Nadir Ali, and I am currently pursuing Ph.D. from [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/), working in the field of photonics. I earned
 my BSc and MSc in Physics from the
 [Jamia Millia Islamia](https://www.jmi.ac.in/).
 
