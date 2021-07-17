@@ -11,7 +11,7 @@ collections:
     permalink: "/:collection/:path/"
   research:
     title: Research
-    output: true
+    output: false
     permalink: "/:collection/:path/"
   talks:
     title: Talks
