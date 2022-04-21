@@ -1,5 +1,5 @@
 ---
-title: Nadir Ali
+title: Lateef Ahmad Wani
 timezone: Asia/Kolkata
 collections:
   posts:
@@ -70,11 +70,11 @@ defaults:
     share: true
 locale: en-US
 title_separator: "-"
-name: Nadir Ali
-description: PhD in Physics
-url: https://nadiralii.github.io/
+name: Lateef Ahmad Wani
+description: PhD in Mathematics
+url: https://lawani.github.io/
 baseurl: 
-repository: nadiralii/nadiralii.github.io
+repository: lateefwani/lawani.github.io
 teaser: 
 breadcrumbs: false
 words_per_minute: 160
@@ -121,7 +121,7 @@ bing_site_verification:
 alexa_site_verification: 
 yandex_site_verification: 
 twitter:
-  username: iam_nadirali
+  username:
 facebook:
   username: 
   app_id: 
@@ -136,9 +136,9 @@ analytics:
   google:
     tracking_id: 
 author:
-  name: Nadir Ali
+  name: Lateef Ahmad Wani
   avatar: myself.jpeg
-  bio: Research Scholar
+  bio: NBHM Postdoc Fellow
   location: Roorkee, IN
   employer: 
   pubmed: 
@@ -153,20 +153,20 @@ author:
   flickr: 
   facebook: 
   foursquare: 
-  github: nadiralii
-  gitlab: nadiralii
+  github: lateefwani
+  gitlab: lateefwani
   google_plus: 
   keybase: 
   instagram: 
   impactstory: 
   lastfm: 
-  linkedin: https://www.linkedin.com/in/nadiralii/
+  linkedin: 
   pinterest: 
   soundcloud: 
   stackoverflow: 
   steam: 
   tumblr: 
-  twitter: iam_nadirali
+  twitter: 
   vine: 
   weibo: 
   xing: 
