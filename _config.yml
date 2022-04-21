@@ -72,9 +72,9 @@ locale: en-US
 title_separator: "-"
 name: Lateef Ahmad Wani
 description: PhD in Mathematics
-url: https://lawani.github.io/
+url: https://lateefwani.github.io/
 baseurl: 
-repository: lateefwani/lawani.github.io
+repository: lateefwani/lateefwani.github.io
 teaser: 
 breadcrumbs: false
 words_per_minute: 160
