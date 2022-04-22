@@ -126,7 +126,7 @@ facebook:
   username: 
   app_id: 
   publisher: 
-og_image: law.JPG
+og_image: law.jpg
 social:
   type: 
   name: 
@@ -137,7 +137,7 @@ analytics:
     tracking_id: 
 author:
   name: Lateef Ahmad Wani
-  avatar: law.JPG
+  avatar: law.jpg
   bio: NBHM Postdoc Fellow
   location: Roorkee, IN
   employer: IIT ROORKEE
@@ -146,6 +146,7 @@ author:
   googlescholar: https://scholar.google.com/citations?user=DbukFxUAAAAJ&hl=en
   email: lwani@ma.iitr.ac.in
   researchgate: https://www.researchgate.net/profile/Lateef-Wani-2
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=57216880443
   uri: 
   bitbucket: 
   codepen: 
