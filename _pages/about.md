@@ -8,7 +8,7 @@ redirect_from:
 - "/about.html"
 ---
 
-Welcome! My name is Lateef Ahmad Wani. I completed my Ph.D. from the department of physics at [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/) in photonics. I earned my BSc and MSc in Physics from the [Jamia Millia Islamia](https://www.jmi.ac.in/).
+Welcome!!! My name is Lateef Ahmad Wani. I completed my Ph.D. from the department of [Mathematics](https://iitr.ac.in/Departments/Mathematics%20Department/Home.html) at [Indian Institute of Technology Roorkee](https://www.iitr.ac.in/) in Complex Analysis (Geometric Function Theory). I earned my MSc in Mathematics from the [University of Kashmir](https://www.kashmiruniversity.net/).
 
 My [research](https://nadiralii.github.io//research) involves modeling, simulations, and custom algorithm development for novel photonic device design and scientific analysis. I am currently focusing on designing hybrid silicon photonic devices based on non-volatile phase change materials. 
 
