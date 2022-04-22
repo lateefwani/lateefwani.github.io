@@ -10,7 +10,7 @@ collections:
     output: true
     permalink: "/:collection/:path/"
   research:
-    title: Research
+    title: Research Interests
     output: true
     permalink: "/:collection/:path/"
   talks:
@@ -142,10 +142,10 @@ author:
   location: Roorkee, IN
   employer: 
   pubmed: 
-  orcid: https://orcid.org/0000-0003-3326-7652
-  googlescholar: https://scholar.google.com/citations?user=f-GZ_FcAAAAJ&hl=en&oi=ao
-  email: nali@ph.iitr.ac.in
-  researchgate: 
+  orcid: https://orcid.org/0000-0002-2143-6095
+  googlescholar: https://scholar.google.com/citations?user=DbukFxUAAAAJ&hl=en
+  email: lwani@ma.iitr.ac.in
+  researchgate: https://www.researchgate.net/profile/Lateef-Wani-2
   uri: 
   bitbucket: 
   codepen: 
